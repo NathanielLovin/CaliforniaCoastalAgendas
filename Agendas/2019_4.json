@@ -1,0 +1,1900 @@
+[
+    {
+        "meta": {
+            "schema_version": 1,
+            "published": true,
+            "archived": false,
+            "last_updated": "April 16 @ 4:20 pm"
+        },
+        "status": null,
+        "month": "April",
+        "year": 2019,
+        "phone_number": "(415) 407-3211",
+        "ada": "Click to request for accessible documents of reports on this agenda",
+        "adatwo": "Please include day, month, year and item number",
+        "venues": [
+            {
+                "name": "Monterey County",
+                "nametwo": "Board of Supervisors Chambers",
+                "address": "168 W. Alisal Street, First Floor",
+                "city": "Salinas",
+                "state": "CA",
+                "zip": "93901",
+                "latitude": "36.674158",
+                "longitude": "-121.659252",
+                "map_url": null
+            }
+        ],
+        "video": {
+            "title": {
+                "english": "Commission Meeting",
+                "spanish": "Commission Meeting"
+            },
+            "assets": [
+                {
+                    "name": "Live Stream",
+                    "url": "http://cal-span.org/jwplayer/embed/?jw_playback_type=live&jw_application=CCC&jw_stream=CCC&jw_height=420&jw_width=420&jw_playback_method=live"
+                }
+            ]
+        },
+        "days": [
+            {
+                "date": 10,
+                "name": "Wednesday",
+                "start_time": "9:00am",
+                "districts": [
+                    {
+                        "name": {
+                            "english": "Statewide",
+                            "spanish": "Statewide"
+                        },
+                        "header": false,
+                        "class": "statewide",
+                        "categories": [
+                            {
+                                "number": 1,
+                                "title": {
+                                    "english": "Call to Order",
+                                    "spanish": "LLAMADA AL ORDEN"
+                                }
+                            },
+                            {
+                                "number": 2,
+                                "title": {
+                                    "english": "Roll Call",
+                                    "spanish": "PASAR LISTA"
+                                }
+                            },
+                            {
+                                "number": 3,
+                                "title": {
+                                    "english": "Agenda Changes",
+                                    "spanish": "CAMBIOS EN LA AGENDA"
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W3/W3-4-2019.pdf"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 4,
+                                "title": {
+                                    "english": "General Public Comment",
+                                    "spanish": "COMENTARIO P\u00daBLICO GENERAL"
+                                },
+                                "blurb": {
+                                    "english": "Public comments will be heard at 9:00 am for items not on the agenda, for no more than 30 minutes. At the discretion of the Chair, speakers will be given up to 3 minutes. For those unable to attend the early comment period, there may be additional comment time available later in the day. Note: Comments made during the general public comment period regarding matters pending before the Commission do not become part of the official record for those matters.",
+                                    "spanish": "Se oir\u00e1n los comentarios p\u00fablicos a las 9:00 am para temas que no est\u00e9n en la agenda, durante no m\u00e1s de 30 minutos. A discreci\u00f3n del Chair, los oradores tendr\u00e1n hasta 3 minutos. Para aquellos que no puedan asistir al periodo inicial de comentarios, habr\u00e1 tiempo adicional para comentarios m\u00e1s tarde en el d\u00eda. Nota: Los comentarios hechos durante el periodo de comentarios p\u00fablicos generales con respecto a asuntos pendientes ante la Comisi\u00f3n no formar\u00e1n parte del expediente oficial para esos asuntos. "
+                                }
+                            },
+                            {
+                                "number": 5,
+                                "title": {
+                                    "english": "Public Agency Presentations",
+                                    "spanish": "PRESENTACIONES DE ENTIDAD P\u00daBLICA"
+                                },
+                                "blurb": {
+                                    "english": "Presentation by California State Parks Monterey District on State Parks coastal parks/beaches in the Monterey County area.",
+                                    "spanish": "Presentaci\u00f3n del distrito de Monterey de Parque Estatales de California State Parks sobre parques costeros/playas de Parques Estatales en el \u00e1rea del Condado de Monterey."
+                                }
+                            },
+                            {
+                                "number": 6,
+                                "title": {
+                                    "english": "Chair's Report",
+                                    "spanish": "Informe del Chair"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "Statewide",
+                            "spanish": "Statewide"
+                        },
+                        "header": true,
+                        "class": "statewide",
+                        "categories": [
+                            {
+                                "number": 7,
+                                "title": {
+                                    "english": "Executive Director's Report",
+                                    "spanish": "Informe del Director Ejecutivo"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Executive Director's Report",
+                                            "spanish": "Informe del Director"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W7a/W7a-4-2019-report.pdf"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "Commission Correspondence",
+                                            "spanish": "Correspondencia de la Comisi\u00f3n"
+                                        },
+                                        "blurb": {
+                                            "english": "Consideration and potential action on Commission correspondence.",
+                                            "spanish": "Consideraci\u00f3n y acci\u00f3n potencial en correspondencia de la Comisi\u00f3n."
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W7b/W7b-4-2019-correspondence.pdf"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "letter": "c",
+                                        "title": {
+                                            "english": "Legislative Report",
+                                            "spanish": "Informe Legislativo "
+                                        },
+                                        "blurb": {
+                                            "english": "Discussion and possible action on coastal-related legislation. (JA/SC-SF)",
+                                            "spanish": "Discusi\u00f3n y acci\u00f3n posible en legislaci\u00f3n pendiente. (JA/SC-SF)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W7c/w7c-4-2019.pdf"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "North Coast District",
+                            "spanish": "Distrito Norte de la Costa"
+                        },
+                        "header": true,
+                        "class": "north-coast",
+                        "categories": [
+                            {
+                                "number": 8,
+                                "title": {
+                                    "english": "Deputy Director's Report",
+                                    "spanish": "Informe del Subdirector"
+                                },
+                                "blurb": {
+                                    "english": "Report by Deputy Director on permit waivers, emergency permits, immaterial amendments & extensions, and on comments from the public relating to the Deputy Director's report. For specific information contact the Commission's Arcata office at (707) 826-8950.",
+                                    "spanish": "Informe del subdirector sobre permiso de exenciones, permisos de emergencia, enmiendas inmateriales y extensiones, y sobre comentarios del p\u00fablico que son relativo a la informe del Subdirector. Para informaci\u00f3n espec\u00edfica llame a la oficina de la Comisi\u00f3n en Arcata al (707) 826-8950."
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W8/W8-4-2019-report.pdf"
+                                    }
+                                ],
+                                "result": "CONCURRED"
+                            },
+                            {
+                                "number": 9,
+                                "title": {
+                                    "english": "Consent Calendar (removed from Regular Calendar)",
+                                    "spanish": "Calendario de Consentimiento (retirado del Calendario Regular)"
+                                }
+                            },
+                            {
+                                "number": 10,
+                                "title": {
+                                    "english": "Coastal Permit Applications",
+                                    "spanish": "Aplicaciones de Permisos Costeros"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Application No. 1-17-0200 (Loleta Community Services District, Humboldt Co.) ",
+                                            "spanish": "Solicitud No. 1-17-0200 (Distrito de Servicios Comunitarios de Loleta, Humboldt Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of Loleta Community Services District to improve Loleta\u2019s wastewater treatment system to meet discharge standards by: (1) upgrading existing wastewater treatment facility with new influent pump station, pre-screening rotary drum screen, extended aeration secondary treatment, and ultraviolet disinfection system; (2) repairing existing subsurface pipe that discharges treated wastewater to wetland tributary of Eel River; and (3) installing new land application system for irrigation of approx. 50 acres of agricultural land with treated wastewater. The project is located at the treatment plant at 2656 Eel River Dr. and on surrounding agricultural lands extending southwest of the intersection of Eel River Dr. and Cannibal Island Rd to the Eel River southeast of Duncan Rd, Loleta, Humboldt County. (CK-A)",
+                                            "spanish": "Solicitud del Distrito de Servicios Comunitarios de Loleta para mejorar el sistema de tratamiento de aguas residuales para satisfacer los est\u00e1ndares de descarga: (1) mejorando instalaciones actuales del tratamiento de aguas residuales con nueva estaci\u00f3n de bombeo de afluentes, filtro de tambor rotatorio de prefiltrado, tratamiento secundario de aeraci\u00f3n extendida y sistema de desinfecci\u00f3n; (2) reparando tuber\u00eda subterr\u00e1nea actual que descarga agua residual tratada al pantanal tributario de Eel River; e (3) instalar nuevo sistema de aplicaci\u00f3n de tierra para la irrigaci\u00f3n de aproximadamente 50 acres de tierra para agricultura con agua residual tratada. El proyecto est\u00e1 ubicado en la planta de tratamiento en 2656 Eel River Dr. y en tierras agr\u00edcolas circundantes que se extienden desde el sudoeste de la intersecci\u00f3n de Eel River Dr. y Cannibal Island Rd al sudeste de Eel River de Duncan Rd, Loleta, Condado de Humboldt. (CK-A)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W10a/W10a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W10a/W10a-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "Moved to Consent Calendar, APPROVED WITH CONDITIONS"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "Energy, Ocean Resources & Federal Consistency",
+                            "spanish": "Energ\u00eda, Recursos del Oc\u00e9ano y Federal Consistencia"
+                        },
+                        "header": true,
+                        "class": "energy-res-fed",
+                        "categories": [
+                            {
+                                "number": 11,
+                                "title": {
+                                    "english": "Energy, Ocean Resources & Federal Consistency",
+                                    "spanish": "Energ\u00eda, Recursos del Oc\u00e9ano y Federal Consistencia"
+                                },
+                                "blurb": {
+                                    "english": "Report by the Deputy Director on permit waivers, emergency permits, immaterial amendments & extensions, negative determinations, matters not requiring public hearings, and status report on offshore oil & gas exploration & development. For specific information contact the Commission\u2019s Energy, Ocean Resources, and Federal Consistency Division office at (415) 904-5240.",
+                                    "spanish": "Informe del subdirector sobre permiso de exenciones, permisos de emergencias, enmiendas inmateriales y extensiones, determinaciones negativas, asuntos que no requieren audiencias p\u00fablicas, y informe de estatus sobre exploraci\u00f3n y desarrollo de petr\u00f3leo y gas en alta mar. Para informaci\u00f3n espec\u00edfica llame a la oficina de la Comisi\u00f3n de la Divisi\u00f3n de Energ\u00eda, Recursos del Oc\u00e9ano y Federal Consistencia, al (415) 904-5240."
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W11/W11-4-2019.pdf"
+                                    },
+                                    {
+                                        "name": "Addendum",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W11/W11-4-2019-addendum.pdf"
+                                    }
+                                ],
+                                "result": "CONCURRED"
+                            },
+                            {
+                                "number": 12,
+                                "title": {
+                                    "english": "Consent Calendar (removed from Regular Calendar)",
+                                    "spanish": "Calendario de Consentimiento (retirado del Calendario Regular)"
+                                }
+                            },
+                            {
+                                "number": false,
+                                "combined": true,
+                                "title": {
+                                    "english": "Please note: Items W13a and W14a, below will share a combined staff report and hearing.<br>And, Items W13b and W14b, below will share a combined staff report and hearing.",
+                                    "spanish": "Las temas W13a y W14a, debajo compartir una sola, combinado personal informes y ser\u00e1 o\u00eddo a trav\u00e9s de un combinado audiencia. Y, las temas W13b y W14b, debajo compartir una sola, combinado personal informes y ser\u00e1 o\u00eddo a trav\u00e9s de un combinado audiencia."
+                                }
+                            },
+                            {
+                                "number": 13,
+                                "title": {
+                                    "english": "Permit Amendments",
+                                    "spanish": "Enmiendas a Permisos"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Permit No. E-08-021-A1 (AT&T Corp., San Luis Obispo Co.)",
+                                            "spanish": "Permiso No. E-08-021-A1 (AT&T Corp., San Luis Obispo Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Request by AT&T Corp. to amend permit to state waters portion of previously approved subsea fiber optic cable to require periodic surveys of cable only after an event or physical phenomenon that could result in a cable becoming unburied, rather than the current practice of every 5 years, Montana de Oro State Park, San Luis Obispo County. (JW-SF)",
+                                            "spanish": "Petici\u00f3n de AT&T Corp. para enmendar permiso para porci\u00f3n de aguas estatales de cable de fibra \u00f3ptica submarino previamente aprobado que requiera sondeos peri\u00f3dicos de cable solo despu\u00e9s de un evento o un fen\u00f3meno f\u00edsico que pudiera hacer que el cable se desentierre, en vez de la pr\u00e1ctica actual de cada 5 a\u00f1os, Montana de Oro State Park, Condado de San Luis Obispo. (JW-SF)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13a14a/W13a14a-04-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13a14a/W13a14a-04-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13a14a/W13a14a-04-2019-correspondence.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13a14a/W13a14a-04-2019-addendum.pdf"
+                                            }
+                                        ],
+                                        "result": "Moved to Consent Calendar, APPROVED WITH CONDITIONS"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "Permit No. E-00-004-A2 (AT&T Corp., Mendocino Co. and San Luis Obispo Co.) ",
+                                            "spanish": "Permiso No. E-00-004-A2 (AT&T Corp., Mendocino Co. y San Luis Obispo Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Request by AT&T Corp. to amend state waters portion of previously approved subsea fiber optic cable to require periodic surveys of cable only after an event or physical phenomenon that could result in a cable becoming unburied, rather than the current practice of every 5 years, Manchester State Beach, Mendocino County and Montana de Oro State Park, San Luis Obispo County. (JW-SF)",
+                                            "spanish": "Petici\u00f3n de AT&T Corp. para enmendar permiso para porci\u00f3n de aguas estatales de cable de fibra \u00f3ptica submarino previamente aprobado que requiera sondeos peri\u00f3dicos de cable solo despu\u00e9s de un evento o un fen\u00f3meno f\u00edsico que pudiera hacer que el cable se desentierre, en vez de la pr\u00e1ctica actual de cada 5 a\u00f1os, Manchester State Beach, Condado de Mendocino y Montana de Oro State Park, Condado de San Luis Obispo. (JW-SF)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13b14b/W13b14b-04-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13b14b/W13b14b-04-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13b14b/W13b14b-04-2019-correspondence.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13b14b/W13b14b-04-2019-addendum.pdf"
+                                            }
+                                        ],
+                                        "result": "Moved to Consent Calendar, APPROVED WITH CONDITIONS"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 14,
+                                "title": {
+                                    "english": "Federal Consistency",
+                                    "spanish": "Federal Consistencia"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "CC-005-09 (AT&T Corp., San Luis Obispo Co.) ",
+                                            "spanish": "CC-005-09 (AT&T Corp., San Luis Obispo Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Consistency Certification of AT&T Corp. for portion of Permit No. E-08-021-A1 in federal waters involving amended consistency certification to require periodic surveys of cable only after an event or physical phenomenon that could result in a cable becoming unburied, rather than the current practice of every five years, Montana de Oro State Park, San Luis Obispo County. (JW-SF) ",
+                                            "spanish": "Certificaci\u00f3n de congruencia de AT&T Corp. para la porci\u00f3n del Permiso No. E-08-021-A1 en aguas federales que comprende la certificaci\u00f3n de congruencia  enmendada para requerir sondeos peri\u00f3dicos del cable solo despu\u00e9s de un evento o fen\u00f3meno f\u00edsico que pudiera hacer que un cable se desentierre, en vez de la pr\u00e1ctica actual de cada cinco a\u00f1os, Montana de Oro State Park, Condado de San Luis Obispo. (JW-SF) "
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13a14a/W13a14a-04-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13a14a/W13a14a-04-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13a14a/W13a14a-04-2019-correspondence.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13a14a/W13a14a-04-2019-addendum.pdf"
+                                            }
+                                        ],
+                                        "result": "CONCURRED"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "CC-078-00 (AT&T Corp., Mendocino Co. and San Luis Obispo Co.) ",
+                                            "spanish": "CC-078-00 (AT&T Corp., Mendocino Co. y San Luis Obispo Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Consistency Certification of AT&T Corp. for portion of Permit No. E-00-004-A2 in federal waters involving amended consistency certification to require periodic surveys of cables only after an event or physical phenomenon that could result in a cable becoming unburied, rather than the current practice of every five years, Manchester State Beach, Mendocino County and Montana de Oro State Park, San Luis Obispo County. (JW-SF)",
+                                            "spanish": "Certificaci\u00f3n de congruencia de AT&T Corp. para porci\u00f3n del Permiso No. E-00-004-A2 en aguas federales que comprenden la certificaci\u00f3n de congruencia enmendada para requerir sondeos peri\u00f3dicos de cables solo despu\u00e9s de un evento o un fen\u00f3meno f\u00edsico que pudiera hacer que un cable se desentierre en vez de la pr\u00e1ctica actual de cada 5 a\u00f1os, Manchester State Beach, Condado de Mendocino y Montana de Oro State Park, Condado de San Luis Obispo. (JW-SF)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13b14b/W13b14b-04-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13b14b/W13b14b-04-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13b14b/W13b14b-04-2019-correspondence.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W13b14b/W13b14b-04-2019-addendum.pdf"
+                                            }
+                                        ],
+                                        "result": "CONCURRED"
+                                    },
+                                    {
+                                        "letter": "c",
+                                        "title": {
+                                            "english": "CD-0001-19 (Bureau of Indian Affairs, Trinidad) ",
+                                            "spanish": "CD-0001-19 (Oficina de Asuntos Ind\u00edgenas, Trinidad) "
+                                        },
+                                        "blurb": {
+                                            "english": "Consistency Determination of Bureau of Indian Affairs for federal funding guarantee to Cher-Ae Heights Indian Community of Trinidad Rancheria for 100-room hotel, adjacent to Trinidad Rancheria\u2019s existing casino, off Scenic Dr., Trinidad, Humboldt County. (JW-SF)",
+                                            "spanish": "Determinaci\u00f3n de congruencia de la Oficina de Asuntos Ind\u00edgenas para garant\u00eda de fondos federales a la Comunidad Ind\u00edgena Cher-Ae Heights de Trinidad Rancheria para hotel de 100 habitaciones, adyacente al actual casino de Trinidad Rancher\u00eda, cerca de Scenic Dr., Trinidad, Condado de Humboldt. (JW-SF)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W14c/W14c-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W14c/W14c-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "Postponed"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "Enforcement",
+                            "spanish": "Enforcement"
+                        },
+                        "header": true,
+                        "class": "enforcement",
+                        "categories": [
+                            {
+                                "number": 15,
+                                "title": {
+                                    "english": "Enforcement Report",
+                                    "spanish": "Informe de Enforcement"
+                                },
+                                "blurb": {
+                                    "english": "Report by Chief of Enforcement on Statewide Enforcement Program. (LAH-SF)",
+                                    "spanish": "Informe por parte del Chief of Enforcement sobre el Enforcement de Statewide Enforcement Program. (LH-SF)"
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": null
+                                    }
+                                ],
+                                "result": null
+                            },
+                            {
+                                "number": false,
+                                "combined": true,
+                                "title": {
+                                    "english": "Please note: Items W15.1 and W15.2, below will share a combined staff report and hearing.",
+                                    "spanish": "Las temas W15.1 y W15.2, debajo compartir una sola, combinado personal informes y ser\u00e1 o\u00eddo a trav\u00e9s de un combinado audiencia"
+                                }
+                            },
+                            {
+                                "number": 15.1,
+                                "title": {
+                                    "english": "Consent Cease and Desist Order CCC-19-CD-02  (Mattos, Marin Co.) ",
+                                    "spanish": "Orden de Consentimiento de Cese (Mattos, Marin Co.) "
+                                },
+                                "blurb": {
+                                    "english": "Public hearing and Commission action on a proposed administrative order directing and authorizing John Mattos to: 1) remove unpermitted development located within and adjacent to wetlands, including unpermitted fill and culverts, from; and 2) cease and desist from undertaking additional unpermitted development at; 5501 Middle Road, unincorporated Marin County (APN 100-050-32); and 3) resolve civil liabilities. (JD-SF)",
+                                    "spanish": "Audiencia p\u00fablica y acci\u00f3n de la Comisi\u00f3n sobre una orden administrativa propuesta que indica y autoriza a John Mattos a: 1) retirar construcci\u00f3n no permitida ubicada dentro de humedales y adyacentes a estos, que incluye relleno y tajeas no permitidas; 2) cese de realizar construcciones adicionales no permitidas en 5501 Middle Road, zona no incorporada del Condado de Marin (APN 100-050-32); y 3) resolver cuestiones de responsabilidad civil. (JD-SF)"
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W15.1s/15.1s-4-2019-report.pdf"
+                                    },
+                                    {
+                                        "name": "Appendix",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W15.1s/15.1s-4-2019-appendix.pdf"
+                                    },
+                                    {
+                                        "name": "Exhibits",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W15.1s/W15.1s-4-2019-exhibits.pdf"
+                                    },
+                                    {
+                                        "name": "Addendum",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W15.1s/15.1s-4-2019-addendum.pdf"
+                                    }
+                                ],
+                                "result": "APPROVED"
+                            },
+                            {
+                                "number": 15.2,
+                                "title": {
+                                    "english": "Consent Restoration Order CCC-19-RO-01  (Mattos, Marin Co.) ",
+                                    "spanish": "Orden de Consentimiento de Restauraci\u00f3n (Mattos, Marin Co.) "
+                                },
+                                "blurb": {
+                                    "english": "Public hearing and Commission action on proposed administrative order directing and authorizing John Mattos to: 1) take restorative actions, including: removal, remedial grading, and revegetation activities; 2) provide additional protection of coastal resources on the property to address temporal losses of habitat, including wetlands habitat; and 3) implement long-term monitoring program to ensure successful restoration of restored areas at; 5501 Middle Road, unincorporated Marin County (APN 100-050-32); and 4) resolve civil liabilities. (JD-SF)",
+                                    "spanish": "Audiencia p\u00fablica y acci\u00f3n de la Comisi\u00f3n sobre una orden administrativa propuesta que indica y autoriza a John Mattos a: 1) emprender acciones de restauraci\u00f3n, que incluye eliminaci\u00f3n, nivelaci\u00f3n reparadora y actividades de revegetaci\u00f3n; 2) proporcionar protecci\u00f3n adicional de recursos costeros en la propiedad para abordar p\u00e9rdidas temporales de h\u00e1bitat, que incluye h\u00e1bitat de humedales; e 3) implementar programa de monitoreo a largo plazo para asegurar una restauraci\u00f3n exitosa de las \u00e1reas restauradas en 5501 Middle Road, zona no incorporada del Condado de Marin (APN 100-050-32); and 4) resolver cuestiones de responsabilidad civil. (JD-SF)"
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W15.1s/15.1s-4-2019-report.pdf"
+                                    },
+                                    {
+                                        "name": "Appendix",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W15.1s/15.1s-4-2019-appendix.pdf"
+                                    },
+                                    {
+                                        "name": "Exhibits",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W15.1s/W15.1s-4-2019-exhibits.pdf"
+                                    },
+                                    {
+                                        "name": "Addendum",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W15.1s/15.1s-4-2019-addendum.pdf"
+                                    }
+                                ],
+                                "result": "APPROVED"
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "North Central Coast District",
+                            "spanish": "Distrito Norte del Costa Central"
+                        },
+                        "header": true,
+                        "class": "north-central",
+                        "categories": [
+                            {
+                                "number": 16,
+                                "title": {
+                                    "english": "Deputy Director's Report",
+                                    "spanish": "Informe del Subdirector"
+                                },
+                                "blurb": {
+                                    "english": "Report by Deputy Director on permit waivers, emergency permits, immaterial amendments & extensions, and on comments from the public relating to the Deputy Director's report. For specific information contact the Commission\u2019s San Francisco office at (415) 904-5260.",
+                                    "spanish": "Informe del subdirector sobre permiso de exenciones, permisos de emergencia, enmiendas inmateriales y extensiones, y sobre comentarios del p\u00fablico que son relativo a la informe del Subdirector. Para informaci\u00f3n espec\u00edfica, llame a la oficina de la Comisi\u00f3n en San Francisco al (415) 904-5260."
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W16/w16-4-2019-report.pdf"
+                                    }
+                                ],
+                                "result": "CONCURRED"
+                            },
+                            {
+                                "number": 17,
+                                "title": {
+                                    "english": "Consent Calendar (removed from Regular Calendar)",
+                                    "spanish": "Calendario de Consentimiento (retirado del Calendario Regular)"
+                                }
+                            },
+                            {
+                                "number": 18,
+                                "title": {
+                                    "english": "New Appeals",
+                                    "spanish": "NUEVAS APELACIONES"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Appeal No. A-2-MAR-19-0007 (North Marin Water District, Inverness, Marin Co.) ",
+                                            "spanish": "Apelaci\u00f3n No. A-2-MAR-19-0007 (Distrito de Aguas de North Marin, Inverness, Marin Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Appeal by Owl Mountain LLC on behalf of Young family of Marin County decision granting permit with conditions to North Marin Water District to replace two public water supply storage tanks with new 125,000-gallon tank at terminus of Drakes View Drive in unincorporated Inverness area of Marin County. (EM-SF)",
+                                            "spanish": "Apelaci\u00f3n de Owl Mountain LLC en nombre de la familia Young de la decisi\u00f3n del Condado de Marin que otorga permiso con condiciones al Distrito de Aguas de North Marin para reemplazar dos tanques de almacenamiento de provisi\u00f3n de agua p\u00fablica con un nuevo tanque de 125,000 galones en el extremo de Drakes View Drive en \u00e1rea no incorporada de Inverness del Condado de Marin. (EM-SF)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W18a/w18a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W18a/w18a-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "Withdrawn"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 19,
+                                "title": {
+                                    "english": "Coastal Permit Application",
+                                    "spanish": "APLICACIONES DE PERMISOS COSTEROS"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Application No. 2-16-0784 (2 Mirada Ownership Group & Casa Mira Homeowner\u2019s Association Mirada Armoring, Half Moon Bay) ",
+                                            "spanish": "Solicitud No. 2-16-0784 (2 Mirada Ownership Group & Casa Mira Homeowner\u2019s Association Mirada Armoring, Half Moon Bay) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of 2 Mirada Ownership Group and Casa Mira Homeowner\u2019s Association to construct an approx. 240-ft. long tied-back concrete seawall with public access staircase fronting both residential development and California Coastal Trail near where Mirada Road intersects the shoreline at the bridge over Arroyo de en Medio in Half Moon Bay, San Mateo County. (PF/SK-SF)",
+                                            "spanish": "Solicitud de 2 Mirada Ownership Group y Casa Mira Homeowner\u2019s Association para autorizar la reparaci\u00f3n y expansi\u00f3n de muro de contenci\u00f3n de riprap precostero actual, y construir malec\u00f3n de hormig\u00f3n unido con escalera de acceso p\u00fablico, por delante aproximadamente 390 pies de ambos desarrollos residenciales y sendero costero de California cerca de la intersecci\u00f3n de Mirada Road  y la l\u00ednea costera en el puente sobre Arroyo de en Medio en Half Moon Bay, Condado de San Mateo. (SR-SF)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W19a/W19a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W19a/W19a-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W19a/W19a-4-2019-corresp.pdf"
+                                            }
+                                        ],
+                                        "result": "Postponed"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "Application No. 2-18-0727 (San Mateo County Harbor District, Princeton-by-the-Sea, San Mateo Co.) ",
+                                            "spanish": "Solicitud No. 2-18-0727 (Distrito Portuario del Condado de San Mateo, Princeton-by-the-Sea, San Mateo Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of San Mateo County Harbor District to dredge approx. 1,600 cu.yds. of sediment adjacent to Pillar Point Harbor public boat launch, allow for future sediment knockdown, and temporarily stockpile dredged sediment at Half Moon Bay Airport, in unincorporated Princeton-by-the-Sea area of San Mateo County. (JM/SD-SF)",
+                                            "spanish": "Solicitud del Distrito Portuario del Condado de San Mateo para dragar aproximadamente 1,600 cu.yds. de sedimente adyacente al lanzamiento p\u00fablico de naves de Pillar Point Harbor, permitir un futuro de knockdown de sedimento y apilar temporalmente sedimento dragado de Half Moon Bay Airport, en el \u00e1rea no incorporada de Princeton-by-the-Sea del Condado de San Mateo. (JM/SD-SF)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W19b/W19b-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W19b/W19b-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "Moved to Consent Calendar, APPROVED WITH CONDITIONS"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "Central Coast District",
+                            "spanish": "DISTRITO DE LA COSTA CENTRAL"
+                        },
+                        "header": true,
+                        "class": "central",
+                        "categories": [
+                            {
+                                "number": 20,
+                                "title": {
+                                    "english": "Deputy Director's Report",
+                                    "spanish": "Informe del Subdirector"
+                                },
+                                "blurb": {
+                                    "english": "Report by Deputy Director on permit waivers, emergency permits, immaterial amendments & extensions, and on comments from the public relating to the Deputy Director's report. For specific information contact the Commission\u2019s Santa Cruz office at (831) 427-4863.",
+                                    "spanish": "Informe del subdirector sobre suspensiones de permisos, permisos de emergencia, enmiendas inmateriales y extensiones, y sobre comentarios del p\u00fablico que son relativo a la informe del Subdirector. Para informaci\u00f3n espec\u00edfica llame a la oficina de la Comisi\u00f3n en Santa Cruz al (831) 427-4863."
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W20/W20-4-2019.pdf"
+                                    },
+                                    {
+                                        "name": "Correspondence",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W20/W20-4-2019-corresp.pdf"
+                                    }
+                                ],
+                                "result": "CONCURRED"
+                            },
+                            {
+                                "number": 21,
+                                "title": {
+                                    "english": "Consent Calendar (removed from Regular Calendar)",
+                                    "spanish": "Calendario de Consentimiento (retirado del Calendario Regular)"
+                                }
+                            },
+                            {
+                                "number": 22,
+                                "title": {
+                                    "english": "Local Coastal Programs (LCPs)",
+                                    "spanish": "Programas Costeros Locales (LCPs)"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "San Luis Obispo County LCP Amendment No. LCP-3-SLO-19-0009-1 (Cannabis Regulations)",
+                                            "spanish": "Enmienda a LCP del Condado de San Luis Obispo No. LCP-3-SLO-19-0009-1 (regulaciones de c\u00e1nabis)"
+                                        },
+                                        "blurb": {
+                                            "english": "Public hearing and action on request by San Luis Obispo County to amend the LCP\u2019s cannabis regulations to add new definitions and to amend existing definitions and allowed uses. (SC-SC)",
+                                            "spanish": "Audiencia p\u00fablica y acci\u00f3n a pedido del Condado de San Luis para enmendar las regulaciones de c\u00e1nabis del LCP para a\u00f1adir nuevas definiciones y enmendar actuales definiciones y usos permitidos. (SC-SC)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W22a/W22a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W22a/W22a-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "APPROVED WITH MODIFICATIONS"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "City of Pismo Beach LCP Amendment No. LCP-3-PSB-18-0076-2-Part B (Circulation Element). Certification Review",
+                                            "spanish": "Enmienda a LCP de la Ciudad de Pismo Beach No. LCP-3-PSB-18-0076-2-Parte B (Elemento de circulaci\u00f3n). Revision de Certificaci\u00f3n. "
+                                        },
+                                        "blurb": {
+                                            "english": "Concurrence with the Executive Director\u2019s determination that the action by the City of Pismo Beach accepting certification of LCP-3-PSB-18-0076-2-Part B with modifications (updating the City\u2019s Circulation Element to provide a multi-modal transportation system plan) is legally adequate. (KB-SC)",
+                                            "spanish": "Concurrencia con la determinaci\u00f3n del Director Ejecutivo de que la acci\u00f3n de la Ciudad de Pismo Beach que acepta la certificaci\u00f3n de LCP-3-PSB-18-0076-2-Parte B con modificaciones (actualizando el Elemento  de Circulaci\u00f3n de la Ciudad para brindar un plan de sistema de transporte multimodal) es legamente adecuada. (KB-SC)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W22b/W22b-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W22b/W22b-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "CONCURRED"
+                                    },
+                                    {
+                                        "letter": "c",
+                                        "title": {
+                                            "english": "Santa Cruz County LCP Amendment No. LCP-3-SCO-18-0095-3 (Residential Density). Certification Review",
+                                            "spanish": "Enmienda de LCP del Condado de Santa Cruz. LCP-3-SCO-18-0095-3 (Densidad Residencial). Revisi\u00f3n de Certificaci\u00f3n"
+                                        },
+                                        "blurb": {
+                                            "english": "Concurrence with the Executive Director\u2019s determination that the action by Santa Cruz County accepting certification of LCP-3-SCO-18-0095-3 with modifications is legally adequate. (RG-SC)",
+                                            "spanish": "Concurrencia con la determinaci\u00f3n del Director Ejecutivo de que la acci\u00f3n del Condado de Santa Cruz aceptando la certificaci\u00f3n de LCP-3-SCO-18-0095-3 con modificaciones es legalmente adecuada. (RG-SC)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W22c/W22c-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W22c/W22c-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "CONCURRED"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 23,
+                                "title": {
+                                    "english": "Coastal Permit Application",
+                                    "spanish": "APLICACIONES DE PERMISOS COSTEROS"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Application No. 3-18-0814 (City of Capitola Jetty Rehabilitation) ",
+                                            "spanish": "Solicitud No. 3-18-0814 (Ciudad de Capitola, rehabilitaci\u00f3n de escollera) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of City of Capitola-by-the-Sea to rehabilitate jetty that protects and maintains Capitola Beach, including by retrieving and restacking rock and importing approx. 380 cu.yds. of new rock, on beach and in ocean seaward of the City of Capitola-by-the-Sea in Santa Cruz County. (RG-SC)",
+                                            "spanish": "Solicitud de la Ciudad de Capitola-by-the-Sea para rehabilitar escollera que prot\u00e9ge y mantiene Capitola Beach, incluyendo recuperar y reapilar rocas e importar aproximadamente 380 cu.yds. de roca nueva, en la playa y el oc\u00e9ano, en el lado del mar de la Ciudad de Capitola-by-the-Sea en el Condado de Santa Cruz. (RG-SC)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W23a/W23a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W23a/W23a-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W23a/W23a-4-2019-Corresp.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W23a/W23a-4-2019-addenda.pdf"
+                                            }
+                                        ],
+                                        "result": "Moved to Consent Calendar, APPROVED WITH CONDITIONS"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "Application No. 3-18-0650 (Harbaugh, Monterey Co.) ",
+                                            "spanish": "Solicitud No. 3-18-0650 (Harbaugh, Monterey Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of Darla Harbaugh to redevelop existing 3-story single-family home, redevelop detached carport/workshop, and construct new retaining walls at 172 Spindrift Rd. within the unincorporated Carmel Highlands area south of the City of Carmel-by-the-Sea in Monterey County. (RM-SC)",
+                                            "spanish": "Solicitud de Darla Harbaugh para reconstruir vivienda unifamiliar actual de 3 pisos, reconstruir \u00e1rea de estacionamiento/taller separado y construir nuevos muros de contenci\u00f3n en 172 Spindrift Rd. dentro del \u00e1rea no incorporada de Carmel Highlands al sur de la Ciudad de Carmel-by-the-Sea en el Condado de Monterey. (RM-SC)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W23b/W23b-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W23b/W23b-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W23b/W23b-4-2019-corresp.pdf"
+                                            }
+                                        ],
+                                        "result": "APPROVED WITH CONDITIONS"
+                                    },
+                                    {
+                                        "letter": "c",
+                                        "title": {
+                                            "english": "Application No. 3-18-0841 (Santa Cruz Harbor Sheet Pile and Restaurant Replacement, Santa Cruz) ",
+                                            "spanish": "Solicitud No. 3-18-0841 (Reemplazo de paredes de retenci\u00f3n y restaurant de Santa Cruz Harbor, Santa Cruz) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of Santa Cruz Port District to (1) demolish existing restaurant on western edge of Santa Cruz Harbor, (2) replace failing sheet pile wall beneath it, (3) rebuild restaurant and expand pier related to it, and (4) authorize previous closure of restaurant and adjacent public pier done pursuant to emergency CDP G-3-16-0067, at 616 Atlantic Ave. just inland of Harbor jetties in Santa Cruz, Santa Cruz County. (SC-SC)",
+                                            "spanish": "Solicitud del Distrito Portuario de Santa Cruz para (1) demoler restaurante actual en el extremo oeste de Santa Cruz Harbor, (2) reemplazar pared de retenci\u00f3n deteriorada debajo de este, (3) reconstruir restaurante y expandir muelle conectado, y (4) autorizar cierre anterior del restaurante y muelle p\u00fablico adyacente conforme con CDP G-3-16-0067 de emergencia, en 616 Atlantic Ave. justo en tierra interior de escolleras de Harbor en Santa Cruz, Condado de Santa Cruz. (SC-SC)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W23c/W23c-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W23c/W23c-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/W23c/W23c-4-2019-Corresp .pdf"
+                                            }
+                                        ],
+                                        "result": "APPROVED WITH CONDITIONS"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "Statewide",
+                            "spanish": "Statewide"
+                        },
+                        "header": true,
+                        "class": "statewide",
+                        "categories": [
+                            {
+                                "number": false,
+                                "title": {
+                                    "english": "Closed Session",
+                                    "spanish": "Sesi\u00f3n Cerrada"
+                                },
+                                "blurb": {
+                                    "english": "At a convenient time during the meeting, the Commission (CCC) will have a closed session to discuss items of pending litigation, including:",
+                                    "spanish": "En un momento conveniente durante la reuni\u00f3n, la Comisi\u00f3n (CCC) tendr\u00e1 una sesi\u00f3n cerrada para discutir los temas de litigaci\u00f3n pendientes, incluidos:"
+                                },
+                                "closed_session": [
+                                    {
+                                        "litigation": "Fowler Packing Company v. CCC, Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Hair v. CCC, Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Harris v. CCC, Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "In re Border Infrastructure Environmental Litigation, Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Kenneth & Diana Bell v. James A. Bell, CCC et al., Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Longi et al. v. CCC, Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Martins Beach I LLC et al. v. Turnbull Sanders, et al., Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Pappas et al. v. State Coastal Conservancy et al. (Rancho Cuarta, RPI), Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Puvunga Wetlands Protectors v. CCC (Beach Oil Minerals, LLC et al. RPIs), Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Kaplan v. CCC (Henson RPI), Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Sierra Club v. CCC (Sweetwater Mesa), Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Spotlight on Coastal Corruption v. CCC, Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Spotlight on Coastal corruption v. Kinsey, Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Sunshine Enterprise LP v. CCC, Govt. Code \u00a7 11126(e)(2)(A)"
+                                    },
+                                    {
+                                        "litigation": "Venice Stakeholders Assn. v. City of Los Angeles et al., Govt. Code \u00a7 11126(e)(2)(A)"
+                                    }
+                                ],
+                                "assets": null,
+                                "note": {
+                                    "title": null,
+                                    "blurb": {
+                                        "english": "The Commission is authorized to discuss these matters in a closed session pursuant to Government Code Sections 11126(e)(2)(A) and (2)(C). In addition, the Commission may consider matters which fall under Government Code Section 11126(e)(2)(B) or (2)(C). The Commission may also consider personnel matters which fall under Government Code Section 11126(a).",
+                                        "spanish": "La Comisi\u00f3n est\u00e1 autorizada a discutir estos asuntos en una sesi\u00f3n cerrada de conformidad con el C\u00f3digo del Gobierno, Secciones 11126(e)(2)(A) y (2)(C). Adem\u00e1s, la Comisi\u00f3n puede considerar asuntos que caen bajo la Secci\u00f3n 11126(e)(2)(B) o (2)(C) del C\u00f3digo del Gobierno. La Comisi\u00f3n tambi\u00e9n puede considerar asuntos de personal que caen bajo la Secci\u00f3n 11126(a) del C\u00f3digo del Gobierno."
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "Statewide",
+                            "spanish": "Statewide"
+                        },
+                        "header": true,
+                        "class": "statewide",
+                        "categories": [
+                            {
+                                "number": 24,
+                                "title": {
+                                    "english": "Approval of Minutes",
+                                    "spanish": "Aprobaci\u00f3n de las Actas"
+                                },
+                                "assets": [
+                                    {
+                                        "name": "April 2019",
+                                        "url": null
+                                    }
+                                ],
+                                "result": null
+                            },
+                            {
+                                "number": 25,
+                                "title": {
+                                    "english": "Commissioners' Reports",
+                                    "spanish": "Informes de los Comisionados"
+                                }
+                            },
+                            {
+                                "number": 26,
+                                "title": {
+                                    "english": "Conservancy Report",
+                                    "spanish": "Informe del Conservancy"
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/W26/W26-4-2019-report.pdf"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 27,
+                                "title": {
+                                    "english": "Santa Monica Mountains Conservancy Report",
+                                    "spanish": "Informe de Conservancy de las Monta\u00f1as de Santa M\u00f3nica"
+                                }
+                            },
+                            {
+                                "number": 28,
+                                "title": {
+                                    "english": "Santa Monica Bay Restoration Report",
+                                    "spanish": "Informe de Restauraci\u00f3n de la Bah\u00eda de santa M\u00f3nica"
+                                }
+                            },
+                            {
+                                "number": 29,
+                                "title": {
+                                    "english": "Deputy Attorney General's Report",
+                                    "spanish": "Informe de Subdirector de Subprocurador General"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "date": 11,
+                "name": "Thursday",
+                "start_time": "9:00am",
+                "districts": [
+                    {
+                        "name": {
+                            "english": "Statewide",
+                            "spanish": "Statewide"
+                        },
+                        "header": false,
+                        "class": "statewide",
+                        "categories": [
+                            {
+                                "number": 1,
+                                "title": {
+                                    "english": "Call to Order",
+                                    "spanish": "LLAMADA AL ORDEN"
+                                }
+                            },
+                            {
+                                "number": 2,
+                                "title": {
+                                    "english": "Roll Call",
+                                    "spanish": "PASAR LISTA"
+                                }
+                            },
+                            {
+                                "number": 3,
+                                "title": {
+                                    "english": "Agenda Changes",
+                                    "spanish": "CAMBIOS EN LA AGENDA"
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/Th3/Th3-4-2019-report.pdf"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 4,
+                                "title": {
+                                    "english": "General Public Comment",
+                                    "spanish": "COMENTARIO P\u00daBLICO GENERAL"
+                                },
+                                "blurb": {
+                                    "english": "Public comments will be heard at 9:00 am for items not on the agenda, for no more than 30 minutes. At the discretion of the Chair, speakers will be given up to 3 minutes. For those unable to attend the early comment period, there may be additional comment time available later in the day. Note: Comments made during the general public comment period regarding matters pending before the Commission do not become part of the official record for those matters.",
+                                    "spanish": "Se oir\u00e1n los comentarios p\u00fablicos a las 9:00 am para temas que no est\u00e9n en la agenda, durante no m\u00e1s de 30 minutos. Para aquellos que no puedan asistir al periodo inicial de comentarios, habr\u00e1 tiempo adicional para comentarios m\u00e1s tarde en el d\u00eda. Nota: Los comentarios hechos durante el periodo de comentarios p\u00fablicos generales con respecto a asuntos pendientes ante la Comisi\u00f3n no formar\u00e1n parte del expediente oficial para esos asuntos."
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "South Coast District (Orange County)",
+                            "spanish": "Distrito de la Costa Sur (Condado de Orange)"
+                        },
+                        "header": true,
+                        "class": "south-coast",
+                        "categories": [
+                            {
+                                "number": 5,
+                                "title": {
+                                    "english": "Administrative Calendar",
+                                    "spanish": "Calendario Administrativo"
+                                },
+                                "blurb": {
+                                    "english": "",
+                                    "spanish": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "South Coast District (Los Angeles County)",
+                            "spanish": "Distrito de la Costa Sur (Condado de Los Angeles)"
+                        },
+                        "header": true,
+                        "class": "south-coast",
+                        "categories": [
+                            {
+                                "number": 6,
+                                "title": {
+                                    "english": "Administrative Calendar",
+                                    "spanish": "CALENDARIO DE ADMINISTRATIVO"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Application No. 5-18-1058 (Refold, Long Beach) ",
+                                            "spanish": "Solicitud No. 5-18-1058 (Refold, Long Beach) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of Jay Refold to replace, like-for-like, approx. 6\u2019 x 42\u2019 dock float and add new gangway and gangway platform, at 77 Rivo Alto Canal, Long Beach, Los Angeles County. (DZ-LB)",
+                                            "spanish": "Solicitud de Jay Refold para reemplazar, muelle flotante de aproximadamente 6\u2019 x 42\u2019 por uno similar y a\u00f1adir una nueva pasarela y plataforma, en 77 Rivo Alto Canal, Long Beach, Condado de Los Angeles. (DZ-LB)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th6a/th6a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th6a/th6a-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "CONCURRED"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "Application No. 5-18-1060 (Zohrabian, Long Beach) ",
+                                            "spanish": "Solicitud No. 5-18-1060 (Zohrabian, Long Beach) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of Edward Zohrabian to replace, like-for-like, approx. 175 sq.ft. L-shaped dock float with no change in size, shape, or orientation, at 101 Vista del Golfo, Long Beach, Los Angeles County. (DZ-LB)",
+                                            "spanish": "Solicitud de Edward Zohrabian para reemplazar un muelle flotante en forma de L de aproximadamente 175 sq.ft. por uno similar sin cambio en el tama\u00f1o, la forma o la orientaci\u00f3n, en 101 Vista del Golfo, Long Beach, Condado de Los Angeles. (DZ-LB)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th6b/th6b-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th6b/th6b-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "CONCURRED"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "South Central Coast District",
+                            "spanish": "Distrito de la Costa Sur Central"
+                        },
+                        "header": true,
+                        "class": "south-central",
+                        "categories": [
+                            {
+                                "number": 7,
+                                "title": {
+                                    "english": "Deputy Director's Report",
+                                    "spanish": "Informe del Subdirector"
+                                },
+                                "blurb": {
+                                    "english": "Report by Deputy Director on permit waivers, emergency permits, immaterial amendments & extensions, and on comments from the public relating to the Deputy Director's report. For specific information contact the Commission's Ventura office at (805) 585-1800.",
+                                    "spanish": "Informe del subdirector sobre permiso de exenciones, permisos de emergencia, enmiendas inmateriales y extensiones, y sobre comentarios del p\u00fablico que son relativo a la informe del Subdirector. Para informaci\u00f3n espec\u00edfica llame a la oficina de la Comisi\u00f3n en Ventura al (805) 585-1800."
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/Th7/Th7-4-2019.pdf"
+                                    }
+                                ],
+                                "result": "CONCURRED"
+                            },
+                            {
+                                "number": 8,
+                                "title": {
+                                    "english": "Consent Calendar (removed from Regular Calendar)",
+                                    "spanish": "Calendario de Consentimiento (retirado del Calendario Regular)"
+                                }
+                            },
+                            {
+                                "number": 9,
+                                "title": {
+                                    "english": "Notice of Impending development",
+                                    "spanish": "AVISO DE DESARROLLO INMINENTE"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "University of California Santa Barbara Notice of Impending Development No. UCS-NOID-0005-18 (Baseball Stadium Lighting)",
+                                            "spanish": "Aviso de Desarrollo Inminente, Universidad de California Santa Barbara No. UCS-NOID-0005-18 (Iluminaci\u00f3n de estadio de b\u00e9isbol)"
+                                        },
+                                        "blurb": {
+                                            "english": "Public hearing and action on Notice of Impending Development by the University of California Santa Barbara for installation of eight 90-100 ft. tall stadium light poles with LED luminaries and lighting at the stairways, walkways, bleachers, and concession area at the Caesar Uyesaka baseball field located on the Main Campus at University of California Santa Barbara, Santa Barbara County. (MK-V) ",
+                                            "spanish": "Audiencia p\u00fablica y acci\u00f3n sobre Aviso de Desarrollo Inminente de la Universidad de California Santa Barbara para la instalaci\u00f3n de ocho postes de luz de 90-100 ft. en el estadio con lumbreras LED e iluminaci\u00f3n en las escaleras, corredores, tribunas y \u00e1rea de concesiones en el campo de b\u00e9isbol Caesar Uyesaka ubicado en el campus principal de la Universidad de California Santa Barbara, Condado de Santa Barbara. (MK-V) "
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th9a/Th9a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th9a/Th9a-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th9a/Th9a-4-2019-addenda.pdf"
+                                            }
+                                        ],
+                                        "result": "APPROVED WITH CONDITIONS"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 10,
+                                "title": {
+                                    "english": "New Appeals",
+                                    "spanish": "Nuevas Apelaciones"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Appeal No. A-4-STB-19-0008 (Eisengart \u2013 Hollister Ranch Parcel 84, Santa Barbara Co.) ",
+                                            "spanish": "Apelaci\u00f3n No. A-4-STB-19-0008 (Eisengart \u2013 Hollister Ranch Parcela 84, Santa Barbara Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Appeal by Commissioners Peskin and Groom of decision of County of Santa Barbara granting permit with conditions to Bruce Eisengart for construction of 800 sq.ft. guesthouse, 450 sq.ft. detached garage, 2 underground 5,000 gallon cisterns, and 1,960 cu.yds. of grading on Hollister Ranch Parcel No. 84 in Gaviota area of Santa Barbara County. (MK-V)",
+                                            "spanish": "Apelaci\u00f3n de los Comisionados Peskin y Groom de la decisi\u00f3n del Condado de Santa Barbara que otorga permiso con condiciones a Bruce Eisengart para construir casa para invitados de 800 sq.ft., garaje separado de 450 sq. ft., 2 cisternas subterr\u00e1neas de 5,000 galones y 1,960 cu.yds. de nivelaci\u00f3n en Hollister Ranch Parcela No. 84 en el \u00e1rea de Gaviota del Condado de Santa Barbara. (MK-V)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th10a/Th10a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th10a/Th10a-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th10a/Th10a-4-2019-corresp.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th10a/Th10a-4-2019-addenda.pdf"
+                                            }
+                                        ],
+                                        "result": "Withdrawn"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "Appeal No. A-4-STB-19-0014 (Williamson \u2013 Hollister Ranch Parcel 83, Santa Barbara Co.) ",
+                                            "spanish": "Apelaci\u00f3n No. A-4-STB-19-0014 (Williamson \u2013 Hollister Ranch Parcela 83, Santa Barbara Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Appeal by Commissioners Peskin and Uranga of decision of County of Santa Barbara granting permit with conditions to Joanne Williamson for construction after-the-fact approval of 8\u2019 x 13\u2019 pool, 308 sq.ft. pool/spa enclosure, 72 sq.ft. generator shed, ground mounted solar arrays, 192 sq.ft. garage/equipment shed, and 180 sq.ft. wine cellar converted to storage on Hollister Ranch Parcel No. 83 in Gaviota area of Santa Barbara County. (MK-V)",
+                                            "spanish": "Apelaci\u00f3n de los Comisionados Peskin y Uranga de la decisi\u00f3n del Condado de Santa Barbara que otorga permiso con condiciones a Joanne Williamson para aprobaci\u00f3n de despu\u00e9s del hecho de la construcci\u00f3n de piscina de 8\u2019 x 13\u2019 pool, recinto de 308 sq.ft. para piscina/spa, cobertizo de generador de 72 sq.ft., paneles solares montados en el suelo, garaje/cobertizo de equipo de 192 sq.ft. y bodega de vinos de 180 sq.ft. convertida en dep\u00f3sito en Hollister Ranch Parcela No. 83 en el \u00e1rea de Gaviota del Condado de Santa Barbara. (MK-V)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th10b/Th10b-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th10b/Th10b-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th10b/Th10b-4-2019-corresp.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th10b/Th10b-4-2019-addenda.pdf"
+                                            }
+                                        ],
+                                        "result": "SUBSTANTIAL ISSUE FOUND, de Novo Hearing CONTINUED"
+                                    },
+                                    {
+                                        "letter": "c",
+                                        "title": {
+                                            "english": "Appeal No. A-4-MAL-19-0013 (Dulepet, Malibu) ",
+                                            "spanish": "Apelaci\u00f3n No. A-4-MAL-19-0013 (Dulepet, Malibu) "
+                                        },
+                                        "blurb": {
+                                            "english": "Appeal by Shobhan Paul of decision of City of Malibu granting permit with conditions to Rajiv and Leena Dulepet for construction of new 3,969 sq.ft., 2-story single-family home with 681 sq.ft. attached 3-car garage, 898 sq.ft. attached accessory dwelling unit, spa, grading, retaining walls, landscaping, hardscape, driveway, hammerhead turnaround, and onsite wastewater treatment system at 31535 \u00bd Pacific Coast Highway in Malibu, Los Angeles County. (DC-V)",
+                                            "spanish": "Apelaci\u00f3n de Shobhan Paul de la decisi\u00f3n de la Ciudad de Malibu que otorga permiso con condiciones a Rajiv y Leena Dulepet para la construcci\u00f3n de una nueva vivienda unifamiliar de 2 pisos, 3,969 sq.ft., con garaje adjunto de 681 sq.ft. para 3 autos, unidad habitable accesoria de, 898 sq.ft., spa, nivelaci\u00f3n, paredes de retenci\u00f3n, paisajismo, decoraci\u00f3n exterior, acceso para veh\u00edculos con \u00e1rea para girar perpendicular a la entrada y sistema de tratamiento de aguas residuales en el lugar, en 31535 \u00bd Pacific Coast Highway en Malibu, Condado de Los Angeles. (DC-V)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th10c/Th10c-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th10c/Th10c-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "NO SUBSTANTIAL ISSUE FOUND"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 11,
+                                "title": {
+                                    "english": "Permit Amendments",
+                                    "spanish": "Enmiendas a Permisos"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Permit No. 4-13-0256-A1 (Uger, Los Angeles Co.) ",
+                                            "spanish": "Permiso No. 4-13-0256-A1 (Uger, Los Angeles Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Request by Thomas Uger to amend permit to modify configuration of recorded open space conservation easement area to allow for construction of a new driveway, at 2161 Encinal Canyon Rd., Santa Monica Mountains, Los Angeles County. (CG-V)",
+                                            "spanish": "Petici\u00f3n de Thomas Uger para enmendar permiso para modificar configuraci\u00f3n de \u00e1rea de acceso de conservaci\u00f3n de espacio abierto registrado para permitir la construcci\u00f3n de una nueva entrada de acceso para autos, en 2161 Encinal Canyon Rd., Santa Monica Mountains, Condado de Los Angeles. (CG-V)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": null
+                                            }
+                                        ],
+                                        "result": "Postponed"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "Permit No. 4-05-069-A3 (Uger, Los Angeles Co.) ",
+                                            "spanish": "Permiso No. 4-05-069-A3 (Uger, Los Angeles Co.) "
+                                        },
+                                        "blurb": {
+                                            "english": "Request by Thomas Uger to amend permit to allow for restoration of existing driveway, including 976 cu.yds. of fill and revegetation with native species, construction of new driveway (102 cu.yds. of cut, 16 cu.yds. fill), and after-the-fact approval of approx. 2,755 sq. feet of vegetation removal, at 2161 Encinal Canyon Rd., Santa Monica Mountains, Los Angeles County. (CG-V)",
+                                            "spanish": "Petici\u00f3n de Thomas Uger para enmendar permiso para permitir la restauraci\u00f3n de entrada para veh\u00edculos actual, incluyendo 976 cu.yds. de relleno y revegetaci\u00f3n con especies nativas, construcci\u00f3n de nueva entrada para autos (102 cu.yds. de corte cut, 16 cu.yds. de relleno) y aprobaci\u00f3n despu\u00e9s del hecho de aproximadamente 2,755 sq. feet de eliminaci\u00f3n de vegetaci\u00f3n, en 2161 Encinal Canyon Rd., Santa Monica Mountains, Condado de Los Angeles. (CG-V)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": null
+                                            }
+                                        ],
+                                        "result": "Postponed"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "South Coast District (Los Angeles County)",
+                            "spanish": "Distrito de la Costa Sur (Condado de Los Angeles)"
+                        },
+                        "header": true,
+                        "class": "south-coast",
+                        "categories": [
+                            {
+                                "number": 12,
+                                "title": {
+                                    "english": "Deputy Director's Report For Los Angeles County",
+                                    "spanish": "Informe Del Subdirector Para El Conadodo de Los Angeles"
+                                },
+                                "blurb": {
+                                    "english": "Report by Deputy Director on permit waivers, emergency permits, immaterial amendments & extensions, and on comments from the public relating to the Deputy Director's report. For specific information contact the Commission's Long Beach office at (562) 590-5071.",
+                                    "spanish": "Informe del subdirector sobre permiso de exenciones, permisos de emergencia, enmiendas inmateriales y extensiones, y sobre comentarios del p\u00fablico que son relativo a la informe del Subdirector. Para informaci\u00f3n espec\u00edfica llame a la oficina de la Comisi\u00f3n en Long Beach al (562) 590-5071."
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/Th12/Th12-4-2019-report.pdf"
+                                    }
+                                ],
+                                "result": "CONCURRED"
+                            },
+                            {
+                                "number": 13,
+                                "title": {
+                                    "english": "Consent Calendar (removed from Regular Calendar)",
+                                    "spanish": "Calendario de Consentimiento (retirado del Calendario Regular)"
+                                }
+                            },
+                            {
+                                "number": 14,
+                                "title": {
+                                    "english": "Coastal Permit Applications",
+                                    "spanish": "Aplicaciones de Permisos Costeros"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Application No. 5-18-1082 (City of Los Angeles Venice Pier Rehabilitation) ",
+                                            "spanish": "Solicitud No. 5-18-1082 (Rehabilitaci\u00f3n de Venice Pier, Ciudad de Los Angeles) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of City of Los Angeles Bureau of Engineering for structural repairs to the Venice Pier, at Venice Pier, Venice, Los Angeles, Los Angeles County. (ES-LB)",
+                                            "spanish": "Solicitud de la Oficina de Ingenier\u00eda de la Ciudad de Los Angeles para la rehabilitaci\u00f3n del Venice Pier, en Venice Pier, Venice, Los Angeles, Condado de Los Angeles. (ES-LB)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th14a/Th14a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th14a/Th14a-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th14a/Th14a-4-2019-corresp.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th14a/Th14a-4-2019-addenda.pdf"
+                                            }
+                                        ],
+                                        "result": "Moved to Consent Calendar, APPROVED WITH CONDITIONS"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "South Coast District (Orange County)",
+                            "spanish": "Distrito de la Costa Sur (Condado de Orange)"
+                        },
+                        "header": true,
+                        "class": "south-coast",
+                        "categories": [
+                            {
+                                "number": 15,
+                                "title": {
+                                    "english": "Deputy Director's Report for Orange County",
+                                    "spanish": "Informe Del Subdirector Para El Condado de Orange"
+                                },
+                                "blurb": {
+                                    "english": "Report by Deputy Director on permit waivers, emergency permits, immaterial amendments & extensions, and on comments from the public relating to the Deputy Director's report. For specific information contact the Commission's Long Beach office at (562) 590-5071.",
+                                    "spanish": "Informe del subdirector sobre permiso de exenciones, permisos de emergencia, enmiendas inmateriales y extensiones, y sobre comentarios del p\u00fablico que son relativo a la informe del Subdirector. Para informaci\u00f3n espec\u00edfica llame a la oficina de la Comisi\u00f3n en Long Beach al (562) 590-5071."
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/Th15/Th15-4-2019-report.pdf"
+                                    }
+                                ],
+                                "result": "CONCURRED"
+                            },
+                            {
+                                "number": 16,
+                                "title": {
+                                    "english": "Consent Calendar (removed from Regular Calendar)",
+                                    "spanish": "Calendario de Consentimiento (retirado del Calendario Regular)"
+                                }
+                            },
+                            {
+                                "number": 16.1,
+                                "title": {
+                                    "english": "LOCAL COASTAL PROGRAMS (LCPs)",
+                                    "spanish": "PROGRAMAS COSTEROS LOCALES (LCPs)"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "City of Newport Beach LCP Amendment No. 4-17. Part B (LCP-5-NPB-17-0084-1)",
+                                            "spanish": "Enmienda a LCP de la Ciudad de Newport Beach No. LCP-4-17, Parte B. (LCP-5-NPB-17-0084-1)"
+                                        },
+                                        "blurb": {
+                                            "english": "Concurrence with the Executive Director\u2019s determination that the action by the City of Newport Beach accepting certification of LCP Amendment No. 4-17 Part B, approved with suggested modifications on February 12, 2019, is legally adequate. The LCP amendment adds new regulations for Accessory Dwelling Units (ADUs) consistent with recent state law into the IP. (LR-LB)",
+                                            "spanish": "Concurrencia con la determinaci\u00f3n del Director Ejecutivo de que la acci\u00f3n de la Ciudad de Newport Beach aceptando la certificaci\u00f3n de la Enmienda 4-17 de la Parte B del LCP, aprobada con las modificaciones sugeridas el 12 de Febrero de 2019, es legalmente adecuada. La enmienda del LCP a\u00f1ade nuevas regulaciones para las unidades de vivienda accesoria (ADUs) consistentes con la ley estatal reciente en el IP. (LR-LB)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th16.1a/Th16.1a-4-2019-report.pdf"
+                                            }
+                                        ],
+                                        "result": "CONCURRED"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "City of Newport Beach LCP Amendment No. 4-17. Part C (LCP-5-NPB-17-0084-1)",
+                                            "spanish": "Enmienda a LCP de la Ciudad de Newport Beach No. LCP-4-17. Parte C (LCP-5-NPB-17-0084-1)"
+                                        },
+                                        "blurb": {
+                                            "english": "Concurrence with the Executive Director\u2019s determination that the actions by the City of Newport Beach accepting certification of LCP Amendment No. 4-17 Part C, approved with suggested modifications on February 12, 2019 and on February 26, 2019, are legally adequate. The LCP amendment modifies the Land Use Plan and the Implementation Plan (IP) portion of the LCP to add exceptions to the Shoreline Height Limit and to the IP portion of the LCP to include a new provision allowing for modifications and variances and revise IP sections to allow additions to nonconforming structures. (LR-LB)",
+                                            "spanish": "Concurrencia con la determinaci\u00f3n del Director Ejecutivo de que las acciones de la Ciudad de Newport Beach que aceptan la certificaci\u00f3n de la enmienda de LCP No. 4-17 Parte C, aprobada con las modificaciones sugeridas el 12 de Febrero de 2019 y el 26 de Febrero de 2019, son legalmente adecuado. La enmienda de LCP modifica el plan de uso del suelo y la porci\u00f3n del plan de implementaci\u00f3n (IP) del LCP para agregar excepciones al l\u00edmite de altura de Shoreline y a la porci\u00f3n de IP del LCP para incluir una nueva provisi\u00f3n que permita modificaciones y desviaciones y revisar las secciones de IP para permiten adiciones a estructuras no conformes. (LR-LB)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th16.1b/Th16.1b-4-2019-report.pdf"
+                                            }
+                                        ],
+                                        "result": "CONCURRED"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 17,
+                                "title": {
+                                    "english": "New Appeals",
+                                    "spanish": "NUEVAS APELACIONES"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Appeal No. A-5-LGB-19-0010 (Surf & Sand Resort, Laguna Beach) ",
+                                            "spanish": "Apelaci\u00f3n No. A-5-LGB-19-0010 (Surf & Sand Resort, Laguna Beach) "
+                                        },
+                                        "blurb": {
+                                            "english": "Appeal by Mark & Sharon Fudge of City of Laguna Beach decision granting permit with conditions to Surf & Sand Resort to renovate existing resort hotel, including modified parking plan and parking layout, new mechanical enclosures, converting deck guardrails to glass, door and window changes, painting of all buildings, rooftop mechanical equipment reconfiguration, new air conditioning units, swimming pool ADA platform lift, hardscaping, and landscaping, at 1555 S. Coast Highway, Laguna Beach, Orange County. (MV-LB)",
+                                            "spanish": "Apelaci\u00f3n de Mark & Sharon Fudge de la decisi\u00f3n de la Ciudad de Laguna Beach que otorga permiso con condiciones a Surf & Sand Resort para renovar actual hotel resort, incluyendo plan modificado de estacionamiento y dise\u00f1o de estacionamiento, nuevos recintos mec\u00e1nicos, conversi\u00f3n de barandales de cubierta a vidrio, cambios a pisos y ventanas, pintar todos los edificios, reconfiguraci\u00f3n de equipos mec\u00e1nicos en el techo, nuevas unidades de aire acondicionado, piscina de nataci\u00f3n, elevaci\u00f3n de plataforma ADA, decoraci\u00f3n exterior y paisajismo en 1555 S. Coast Highway, Laguna Beach, Condado de Orange. (MV-LB)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th17a/Th17a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th17a/Th17a-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th17a/Th17a-4-2019-correspondence.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th17a/Th17a-4-2019-addendum.pdf"
+                                            },
+                                            {
+                                                "name": "2nd Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th17a/Th17a-4-2019-2addendum.pdf"
+                                            }
+                                        ],
+                                        "result": "SUBSTANTIAL ISSUE FOUND, de Novo Hearing CONTINUED"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "Appeal No. A-5-LGB-19-0011 (Bluebird #24, LLC, Laguna Beach) ",
+                                            "spanish": "Apelaci\u00f3n No. A-5-LGB-19-0011 (Bluebird #24, LLC, Laguna Beach) "
+                                        },
+                                        "blurb": {
+                                            "english": "Appeal by Mark Fudge of City of Laguna Beach decision granting permit to Bluebird #24, LLC for after-the-fact authorization of enclosure and conversion of 235 sq.ft. of deck area into internal floor area adding to existing 1,318 sq.ft. residential unit on ocean-fronting bluff property, at 1585 S. Coast Highway, Unit 24, Laguna Beach, Orange County. (MA-LB)",
+                                            "spanish": "Apelaci\u00f3n por parte de Mark Fudge de la decisi\u00f3n de la Ciudad de Laguna Beach que otorga permiso con condiciones a Bluebird #24, LLC para autorizaci\u00f3n despu\u00e9s del hecho de recinto y conversi\u00f3n de \u00e1rea de cubierta de 235 sq.ft. en un \u00e1rea de piso interno a\u00f1adiendo a unidad residencial actual de 1,318 sq.ft. en propiedad sobre acantilado frente al oc\u00e9ano, en 1585 S. Coast Highway, Unit 24, Laguna Beach, Condado de Orange. (MA-LB)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th17b/Th17b-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th17b/Th17b-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th17b/Th17b-4-2019-corresp.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th17b/Th17b-4-2019-addenda.pdf"
+                                            }
+                                        ],
+                                        "result": "SUBSTANTIAL ISSUE FOUND, de Novo Hearing CONTINUED"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 18,
+                                "title": {
+                                    "english": "Coastal Permit Application",
+                                    "spanish": "APLICACIONES DE PERMISOS COSTEROS"
+                                }
+                            },
+                            {
+                                "number": false,
+                                "combined": true,
+                                "title": {
+                                    "english": "",
+                                    "spanish": ""
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Application No. A-5-LGB-16-0098 (Kinstler, Laguna Beach) ",
+                                            "spanish": "Solicitud No. A-5-LGB-16-0098 (Kinstler, Laguna Beach) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of Charles Kinstler to remodel and add to 2,946 sq.ft. single-family home with attached garage on ocean-fronting bluff at 31505 Bluff Dr., Laguna Beach, Orange County. (MA-LB)",
+                                            "spanish": "Solicitud de Charles Kinstler para remodelar y a\u00f1adir a vivienda unifamiliar de 2,946 sq.ft. con garaje adjunto en acantilado frente al oc\u00e9ano en 31505 Bluff Dr., Laguna Beach, Condado de Orange. (MA-LB)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th18a/Th18a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th18a/Th18a-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Exparte",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th18a/Th18a-4-2019-exparte.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th18a/Th18a-4-2019-addenda.pdf"
+                                            }
+                                        ],
+                                        "result": "DENIED"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "Application No. 5-18-0091 (Nobles, Sunset Beach, Huntington Beach)",
+                                            "spanish": "Solicitud No. 5-18-0091 (Nobles, Sunset Beach, Huntington Beach) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of Anthony Nobles for major remodel consisting of 3-story, 3,076 sq.ft. addition to 3-story, 3,774 sq.ft., 35-ft. high (measured from centerline of frontage road) single-family home, resulting in 6,850 sq.ft., 3-story, 35-ft. high, single-family home with new 904 sq.ft. 3-car garage, on beachfront lot, at 16601 S. Pacific Ave., (Sunset Beach), Huntington Beach, Orange County. (MV-LB)",
+                                            "spanish": "Solicitud de Anthony Nobles para mayor reforma que consiste en adici\u00f3n de 3 pisos y 3,076 sq.ft. a una vivienda unifamiliar de pisos, 3,774 sq.ft., 35-ft. high (medidos desde la l\u00ednea central del frente de la calle), que resulta en una vivienda unifamiliar de 6,850 sq.ft., 3 pisos, 35-ft. high, con nuevo garaje de 904 sq.ft. para 3 autos, en terreno frente a la playa, en 16601 S. Pacific Ave., (Sunset Beach), Huntington Beach, Condado de Orange. (MV-LB)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th18b/Th18b-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th18b/th18b-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th18b/Th18b-4-2019-addendum.pdf"
+                                            }
+                                        ],
+                                        "result": "CONTINUED"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "San Diego Coast District",
+                            "spanish": "Distrito de la Costa San Diego"
+                        },
+                        "header": true,
+                        "class": "san-diego",
+                        "categories": [
+                            {
+                                "number": 19,
+                                "title": {
+                                    "english": "Deputy Director's Report",
+                                    "spanish": "Informe del Subdirector"
+                                },
+                                "blurb": {
+                                    "english": "Report by Deputy Director on permit waivers, emergency permits, immaterial amendments & extensions, and on comments from the public relating to the Deputy Director's report. For specific information contact the Commission's San Diego office at (619) 767-2370.",
+                                    "spanish": "Informe del subdirector sobre permiso de exenciones, permisos de emergencia, enmiendas inmateriales y extensiones, y sobre comentarios del p\u00fablico que son relativo a la informe del Subdirector. Para informaci\u00f3n espec\u00edfica llame a la oficina de la Comisi\u00f3n en San Diego al (619) 767-2370."
+                                },
+                                "assets": [
+                                    {
+                                        "name": "Report",
+                                        "url": "https://documents.coastal.ca.gov/reports/2019/4/Th19/TH19-6-2019.pdf"
+                                    }
+                                ],
+                                "result": "CONCURRED"
+                            },
+                            {
+                                "number": 20,
+                                "title": {
+                                    "english": "Consent Calendar (removed from Regular Calendar)",
+                                    "spanish": "Calendario de Consentimiento (retirado del Calendario Regular)"
+                                }
+                            },
+                            {
+                                "number": 21,
+                                "title": {
+                                    "english": "Local Coastal Programs (LCPs)",
+                                    "spanish": "Programas Costeros Locales (LCPs)"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "City of Del Mar LCP Amendment No. LCP-6-DMR-18-0097-3 (Downtown Initiative Overlay Zone Repeal)",
+                                            "spanish": "Enmienda a LCP de la Ciudad de Del Mar No. LCP-6-DMR-18-0097-3 (Derogaci\u00f3n de zona de superposici\u00f3n de iniciativa para el centro)"
+                                        },
+                                        "blurb": {
+                                            "english": "Public hearing and action on request by the City of Del Mar to amend its certified Land Use Plan and Implementation Plan to remove language defining the Downtown Initiative Overlay Zone and repeal Municipal Code Section 30.54 (overlay zone). (SL-SD)",
+                                            "spanish": "Audiencia p\u00fablica y acci\u00f3n a pedido de la Ciudad de Del Mar para enmendar su Plan del Uso de la Tierra y Plan de Implementaci\u00f3n para eliminar lenguaje que define la zona de superposici\u00f3n de iniciativa para el centro y derogar secci\u00f3n de C\u00f3digo Municipal 30.54 (zona de superposici\u00f3n). (SL-SD)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th21a/Th21a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th21a/Th21a-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "APPROVED AS SUBMITTED"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 22,
+                                "title": {
+                                    "english": "New Appeals",
+                                    "spanish": "NUEVAS APELACIONES"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Appeal No. A-6-MBE-19-0009 (Dutta, San Diego) ",
+                                            "spanish": "Apelaci\u00f3n No. A-6-MBE-19-0009 (Dutta, San Diego) "
+                                        },
+                                        "blurb": {
+                                            "english": "Appeal by Monique Barnes from decision of City of San Diego granting permit with conditions to Anil Dutta to demolish 2 duplexes on 2 adjacent lots totaling 0.1 acres, consolidate lots and construct 30-ft. tall, 3-story, approx. 5,000 sq.ft. multi-family structure with 4 dwelling units, at 821-825 Island Court, Mission Beach, San Diego, San Diego County. (AL-SD)",
+                                            "spanish": "Apelaici\u00f3n de Monique Barnes de la decisi\u00f3n de la Ciudad de San Diego que otorga permiso con condiciones a Anil Dutta para demoler 2 d\u00faplexes en 2 terrenos adyacentes por un total de 0.1 acres, consolidar terrenos y construir una estructura multifamiliar de 30 pies de alto, 3 pisos y aproximadamente 5,000 sq.ft. con cuatro unidades habitables, en 821-825 Island Court, Mission Beach, San Diego, Condado de San Diego. (AL-SD)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th22a/Th22a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th22a/Th22a-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "NO SUBSTANTIAL ISSUE FOUND"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "Appeal No. A-6-ENC-19-0012 (Trask, Encinitas) ",
+                                            "spanish": "Apelaci\u00f3n No. A-6-ENC-19-0012 (Trask, Encinitas) "
+                                        },
+                                        "blurb": {
+                                            "english": "Appeal by Commissioners Brownsey & Padilla from decision of City of Encinitas granting permit with conditions to Travis and Alyssa Trask to renovate one story, 1,197 sq.ft. single-family home with detached 451 sq.ft. garage to construct 250 sq.ft. addition and interior and exterior remodeling on 14,090 sq.ft. blufftop lot, at 1470 Neptune Ave, Encinitas, San Diego County. (DL-SD)",
+                                            "spanish": "Apelaci\u00f3n de los Comisionados Brownsey & Padilla de la decisi\u00f3n de la Ciudad de Encinitas que otorga permiso con condiciones a Travis y Alyssa Trask para renovar una vivienda unifamiliar de 1 piso, 1,197 sq.ft., con garaje separado de 451 sq.ft. para construir una adici\u00f3n de 250 sq.ft. y reforma exterior en terreno de 14,090 sq.ft. en cima del acantilado en 1470 Neptune Ave, Encinitas, Condado de San Diego. (DL-SD)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": null
+                                            }
+                                        ],
+                                        "result": "Postponed"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 23,
+                                "title": {
+                                    "english": "Coastal Permit Applications",
+                                    "spanish": "Aplicaciones de Permisos Costeros"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Application No. 6-18-1184 (Viola, Carlsbad) ",
+                                            "spanish": "Solicitud No. 6-18-1184 (Viola, Carlsbad) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of Theodore Viola to subdivide approx. 31,775 sq.ft. vacant lot into 2 parcels approx. 15,458 sq.ft. and 16,317 sq.ft. at southeast corner of Hoover and Adams Streets, Carlsbad, San Diego County. (CH-SD)",
+                                            "spanish": "Solicitud de Theodore Viola para subdividir aproximadamente terreno vacante de aproximadamente 31,775 sq.ft. en 2 parcelas de aproximadamente 15,458 sq.ft. y16,317 sq.ft. en la esquina sudeste de Hoover y Adams Streets, Carlsbad, Condado de San Diego. (CH-SD)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th23a/Th23a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th23a/Th23a-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th23a/Th23a-4-2019-addendum.pdf"
+                                            }
+                                        ],
+                                        "result": "Moved to Consent Calendar, APPROVED WITH CONDITIONS"
+                                    },
+                                    {
+                                        "letter": "b",
+                                        "title": {
+                                            "english": "Application No. 6-18-1224 (Bayside Associates, LLC, Mission Beach)",
+                                            "spanish": "Solicitud No. 6-18-1224 (Bayside Associates, LLC, Mission Beach) "
+                                        },
+                                        "blurb": {
+                                            "english": "Application of Bayside Associates, LLC to demolish 1,789 sq.ft. single-family home with attached garage, and construct 2,562 sq.ft., 3-story single-family home including attached 2-car garage on a 4,215 sq.ft. lot, at 3729 Ocean Front Walk, Mission Beach, San Diego, San Diego County. (SL-SD)",
+                                            "spanish": "Solicitud de Bayside Associates, LLC para demoler vivienda unifamiliar de 1,789 sq.ft. con garaje adjunto y construir una vivienda unifamiliar de 2,562 sq.ft., 3 pisos, incluyendo garaje adjunto para 2 autos en un terreno de 4,215 sq.ft. en 3729 Ocean Front Walk, Mission Beach, San Diego, Condado de San Diego. (SL-SD)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th23b/Th23b-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th23b/Th23b-4-2019-exhibits.pdf"
+                                            },
+                                            {
+                                                "name": "Correspondence",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th23b/Th23b-4-2019-corresp.pdf"
+                                            },
+                                            {
+                                                "name": "Addendum",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th23b/Th23b-4-2019-addenda.pdf"
+                                            }
+                                        ],
+                                        "result": "Withdrawn"
+                                    }
+                                ]
+                            },
+                            {
+                                "number": 24,
+                                "title": {
+                                    "english": "Permit Amendments",
+                                    "spanish": "Enmiendas a Permisos"
+                                },
+                                "items": [
+                                    {
+                                        "letter": "a",
+                                        "title": {
+                                            "english": "Permit No. 6-16-0108-A1 (SANDAG, San Diego) ",
+                                            "spanish": "Permiso No. 6-16-0108-A1 (SANDAG, San Diego) "
+                                        },
+                                        "blurb": {
+                                            "english": "Request by San Diego Association of Governments (SANDAG) to amend permit for construction of new light rail line to improve approx. half-mile of existing access road along west side of North County Transit District (NCTD) rail line and install new 80-ft. long bridge over Tecolote Creek, at NCTD right-of-way between Tecolote Creek and Milton St., San Diego, San Diego County. (AL-SD)",
+                                            "spanish": "Petici\u00f3n de la Asociaci\u00f3n de Gobiernos de San Diego (SANDAG) para enmendar permiso para construcci\u00f3n de un nuevo tren ligero para mejorar aproximadamente media milla de calle de acceso actual a lo largo del lado occidental del tren ligero del Distrito de Tr\u00e1nsito de North County (NCTD) e instalar un nuevo puente de 80 pies de largo sobre Tecolote Creek, en derecho de paso de NCTD entre Tecolote Creek y Milton St., San Diego, Condado de San Diego. (AL-SD)"
+                                        },
+                                        "assets": [
+                                            {
+                                                "name": "Report",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th24a/Th24a-4-2019-report.pdf"
+                                            },
+                                            {
+                                                "name": "Exhibits",
+                                                "url": "https://documents.coastal.ca.gov/reports/2019/4/Th24a/Th24a-4-2019-exhibits.pdf"
+                                            }
+                                        ],
+                                        "result": "Moved to Consent Calendar, APPROVED WITH CONDITIONS"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "english": "Statewide",
+                            "spanish": "Statewide"
+                        },
+                        "header": false,
+                        "class": "statewide margin-top",
+                        "field_trip": {
+                            "title": {
+                                "english": "Future Meetings:",
+                                "spanish": "Reuniones futuras:"
+                            },
+                            "blurb": {
+                                "english": "The next meetings of the Coastal Commission are May 8-10, in Oxnard and in June 12-14, in San Diego.",
+                                "spanish": "Las pr\u00f3ximas reuniones de la Coastal Commission son el 8-10, de Mayo en Oxnard y el 12-14, de Junio en San Diego."
+                            },
+                            "assets": [
+                                {
+                                    "name": "Report",
+                                    "url": null
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
